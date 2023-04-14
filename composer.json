@@ -1,6 +1,7 @@
 {
   "name": "alexthegull/test_binary_tree_db",
   "description": "alexthegull binary tree database",
+  "version": "1.0.0",
   "authors": [
     {
       "name": "alexthegull Team",
