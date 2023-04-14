@@ -1,10 +1,10 @@
 {
-  "name": "cleantalk/test_binary_tree_db",
-  "description": "CleanTalk binary tree database",
+  "name": "alexthegull/test_binary_tree_db",
+  "description": "alexthegull binary tree database",
   "authors": [
     {
-      "name": "CleanTalk Team",
-      "email": "support@cleantalk.org"
+      "name": "alexthegull Team",
+      "email": "alexthegull@cleantalk.org"
     }
   ],
   "require": {
